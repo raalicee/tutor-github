@@ -1,0 +1,5 @@
+Latihan git:
+1. git config
+2. git init
+tambahan
+edit
